@@ -5,14 +5,16 @@
       "id": "1",
       "content": "1111阿萨大苏打速度",
       "createUser": "admin",
-      "createTime": "2022-02-05"
+      "createTime": "2022-02-05",
+      "showCount": 100
     },
     {
       "title": "2阿萨大苏打速度",
       "id": "2",
       "content": "2222阿萨大苏打速度",
       "createUser": "admin",
-      "createTime": "2022-02-05"
+      "createTime": "2022-02-05",
+      "showCount": 22
     }
   ]
 }
