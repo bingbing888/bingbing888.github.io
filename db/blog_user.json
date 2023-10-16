@@ -4,6 +4,11 @@
       "userName": "admin",
       "nikeName": "哈哈",
       "passWord": "admin"
+    },
+    {
+      "userName": "root",
+      "nikeName": "哈哈",
+      "passWord": "root"
     }
   ]
 }
